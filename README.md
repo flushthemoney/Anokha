@@ -4,8 +4,7 @@ We are Team Anokha, and for our problem statement, we chose "De-anonymisation fo
 activities performed using cryptocurrency transaction
 technology". 
 
-https://i.imgur.com/e4po5P0.png
-[<img src="https://i.imgur.com/e4po5P0.png"  width="10%" height="10%">](https://anokha.locaro.in)
+[<img src="https://i.imgur.com/e4po5P0.png"  width="20%" height="20%">](https://anokha.locaro.in)
 
 ### What is our application about? 
 
