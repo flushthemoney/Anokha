@@ -4,6 +4,9 @@ We are Team Anokha, and for our problem statement, we chose "De-anonymisation fo
 activities performed using cryptocurrency transaction
 technology". 
 
+https://i.imgur.com/e4po5P0.png
+[<img src="https://i.imgur.com/e4po5P0.png"  width="10%" height="10%">](https://anokha.locaro.in)
+
 ### What is our application about? 
 
 Transactions can be tracked with the help of blockchain data and government-controlled sources, and we pass the data stream for preprocessing for our model prediction. Based on the transactions made by each individual wallet, the "BERT4Crypto" Neural Network rates each wallet and tags the wallet for suspicious activity if the rating is too low. It also monitors transactions in real time for this use case. 
